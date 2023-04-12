@@ -8,6 +8,9 @@
     display: flex;
     justify-content: center;
     margin-right: 70px;
+    position: fixed;
+    top: 100px;
+    left: 35%;
 }
 
 #hide-h1 {
